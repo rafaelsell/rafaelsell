@@ -1,15 +1,12 @@
 # Hello, I'm Rafael Sell 👋
 
-## Front-end software developer. Currently studying and working has freelancer.
+## Front-end software developer. Currently studying and working has freelancer. I do cool and reliable applications with ReactJS and Flutter.
 
-- 🔭 I’m currently working on building scalable React applications
-- 🌱 I’m currently learning advanced React patterns and diving into TypeScript
-- 👯 I’m looking to collaborate on open source projects and innovative web apps
-- 🤔 I’m looking for help with GraphQL and server-side rendering techniques
-- 💬 Ask me about React, JavaScript, and web development
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: He/Him, She/Her, They/Them (choose what fits you)
-- ⚡ Fun fact: I love to play the guitar and explore new technologies
+- 👯 I’m looking to my first formal job as a developer. Also i'm interested on open source projects and innovative web apps.
+- 🤔 I’m actually in my first steps into NextJS and Fullstack Development.
+- 💬 Fell free to ask me about React, JavaScript, and web development on my social networks.
+- 😄 You can also call me Saito, it's my nickname!
+- ⚡ Fun fact: I'am a singer, gamer and designer. I like anime. 🤭
 
 ### Connect with me:
 
