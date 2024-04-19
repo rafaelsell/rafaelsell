@@ -250,7 +250,4 @@
       alt="Trello"
     />
   </div>
-  <p style="font-weight: 300">
-    Feito com amor <span style="color: red">❤</span> por Rafael Sell
-  </p>
 </body>
